@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Your personal tasks (the app creates tasks.json automatically).
+# Delete the next three lines if you DO want to upload your task list.
+tasks.json
+tasks.tmp
+tasks.broken.json
+
+# Packaging output
+build/
+dist/
+*.spec
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
